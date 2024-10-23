@@ -6,3 +6,4 @@ Hola
 Hola chat
 JAJAJAAJAJA que dices?
 pan 
+Linea de conflictos
